@@ -1,0 +1,23 @@
+{
+  "name": "new-art-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./input.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvenWes/New-Art-Gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvenWes/New-Art-Gallery/issues"
+  },
+  "homepage": "https://github.com/AvenWes/New-Art-Gallery#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
